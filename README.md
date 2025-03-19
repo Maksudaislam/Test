@@ -122,7 +122,7 @@ This roadmap outlines the planned phases of development for the Warehouse E-Comm
 ## Shopping Cart
 * ![image](https://github.com/user-attachments/assets/bb874e39-6794-46ed-97c5-a9911f450a42)*
 ## Order Summary
-* ![image](https://github.com/user-attachments/assets/570378a4-1245-44bc-951c-57d3aba532e8) *
+* ![image](https://github.com/user-attachments/assets/570378a4-1245-44bc-951c-57d3aba532e8) 
 
 
 
