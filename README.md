@@ -113,10 +113,12 @@ This roadmap outlines the planned phases of development for the Warehouse E-Comm
 - 🔹 Introduce bulk order management and analytics.
 
 ## 📸 Screenshots
-## Banner
+# Banner
 *![image](https://github.com/user-attachments/assets/d97a12d6-95c4-43e0-9ec3-ac14ab80211b)*
 ## Prooduct
 *![image](https://github.com/user-attachments/assets/358fd522-5ea2-4530-89db-80f36d6fe070)*
+# Product Title and about Product
+*![image](https://github.com/user-attachments/assets/1131676b-61c1-4fd2-a17d-568d63df9902)*
 
 
 
