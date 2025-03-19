@@ -9,13 +9,13 @@ Additionally, the project features an AI-powered chatbot that provides real-time
 | Maksuda Islam | C231440 | Developer |
 
 ## 🚀 Features
-✅ **User Authentication** – Secure login and registration system.
-✅ **Product Management** – Add, edit, and delete products from the Django admin panel.
-✅ **AI Chatbot** – Provides product information, pricing, and availability.
-✅ **Dynamic UI** – Engaging user experience with Owl Carousel for product display.
-✅ **Order Management** – Users can place, track, and manage orders.
-✅ **Secure Payment (Optional)** – Integrate payment gateways for seamless transactions.
-✅ **Search & Filters** – Advanced filtering options for easier product discovery.
+- ✅ **User Authentication** – Secure login and registration system.
+- ✅ **Product Management** – Add, edit, and delete products from the Django admin panel.
+- ✅ **AI Chatbot** – Provides product information, pricing, and availability.
+- ✅ **Dynamic UI** – Engaging user experience with Owl Carousel for product display.
+- ✅ **Order Management** – Users can place, track, and manage orders.
+- ✅ **Secure Payment (Optional)** – Integrate payment gateways for seamless transactions.
+- ✅ **Search & Filters** – Advanced filtering options for easier product discovery.
 
 ## 🛠️ Technologies Used
 ### Backend:
@@ -80,12 +80,12 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser to access
 This roadmap outlines the planned phases of development for the Warehouse E-Commerce Site.
 
 ### 🚀 Phase 1: Core Development (Completed ✅)
-✔ Set up Django project structure.
-✔ Implement user authentication (registration, login, logout).
-✔ Create Django admin panel for product and order management.
-✔ Build frontend with HTML, CSS, and JavaScript.
-✔ Integrate Owl Carousel for product display.
-✔ Set up the database (SQLite/PostgreSQL/MySQL).
+- ✔ Set up Django project structure.
+- ✔ Implement user authentication (registration, login, logout).
+- ✔ Create Django admin panel for product and order management.
+- ✔ Build frontend with HTML, CSS, and JavaScript.
+- ✔ Integrate Owl Carousel for product display.
+- ✔ Set up the database (SQLite/PostgreSQL/MySQL).
 
 ### 🛠️ Phase 2: AI Chatbot Integration (In Progress 🛠️)
 - 🔹 Develop a chatbot UI with an interactive message window.
