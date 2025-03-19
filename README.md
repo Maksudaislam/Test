@@ -114,13 +114,13 @@ This roadmap outlines the planned phases of development for the Warehouse E-Comm
 
 ## 📸 Screenshots
 ## Banner
-*![image](https://github.com/user-attachments/assets/d97a12d6-95c4-43e0-9ec3-ac14ab80211b)*
+* ![image](https://github.com/user-attachments/assets/d97a12d6-95c4-43e0-9ec3-ac14ab80211b)*
 ## Prooduct
-*![image](https://github.com/user-attachments/assets/358fd522-5ea2-4530-89db-80f36d6fe070)*
+* ![image](https://github.com/user-attachments/assets/358fd522-5ea2-4530-89db-80f36d6fe070)*
 ## Product Title and about Product
-*![image](https://github.com/user-attachments/assets/1131676b-61c1-4fd2-a17d-568d63df9902)*
+* ![image](https://github.com/user-attachments/assets/1131676b-61c1-4fd2-a17d-568d63df9902)*
 ## Shopping Cart
-*![image](https://github.com/user-attachments/assets/bb874e39-6794-46ed-97c5-a9911f450a42)*
+* ![image](https://github.com/user-attachments/assets/bb874e39-6794-46ed-97c5-a9911f450a42)*
 ## Order Summary
 * ![image](https://github.com/user-attachments/assets/570378a4-1245-44bc-951c-57d3aba532e8) *
 
