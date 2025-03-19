@@ -32,7 +32,8 @@ Additionally, the project features an AI-powered chatbot that provides real-time
 - Chatbot fetching data via API
 
 ### Deployment:
-*(If deployed, mention the platform: e.g., Heroku, AWS, DigitalOcean)*
+- Vercel
+- Render
 
 ## 📌 Installation Guide
 Follow these steps to set up the project on your local machine:
